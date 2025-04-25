@@ -79,6 +79,8 @@ Run using
 docker compose up
 ```
 
+You can then access the app here: https://localhost
+
 ## And run it using
 
 ## 📚 Documentation
