@@ -1,6 +1,6 @@
 # 🚀 Reference App
 
-Hi everyone! 👋 🌊
+Hi everyone 👋 🌊
 ![Made a simple reference app for the demo](demo_app.png)
 
 ## 🎯 Purpose
@@ -8,6 +8,11 @@ Hi everyone! 👋 🌊
 The purpose of this app is to:
 
 - Provide a reference implementation for a full-stack application.
+
+## 📚 Documentation
+
+- **API**: Retrieves information for a specific DC comics character based on name.
+- **UI**: Displays DC comics character info.
 
 ---
 
@@ -80,12 +85,5 @@ docker compose up
 ```
 
 You can then access the app here: http://localhost
-
-## And run it using
-
-## 📚 Documentation
-
-- **API**: Retrieves information for a specific DC comics character based on name.
-- **UI**: Displays DC comics character info.
 
 Happy coding! 💻✨
