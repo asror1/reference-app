@@ -79,7 +79,7 @@ Run using
 docker compose up
 ```
 
-You can then access the app here: https://localhost
+You can then access the app here: http://localhost
 
 ## And run it using
 
