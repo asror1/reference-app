@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Batman",
+    "realName": "Bruce Wayne",
+    "abilities": ["Martial Arts", "Stealth", "Detective Skills"],
+    "affiliation": "Justice League"
+  },
+  {
+    "name": "Wonder Woman",
+    "realName": "Diana Prince",
+    "abilities": ["Super Strength", "Flight", "Lasso of Truth"],
+    "affiliation": "Justice League"
+  },
+  {
+    "name": "The Joker",
+    "realName": "Unknown",
+    "abilities": ["Genius Intellect", "Master Manipulator", "Expert Chemist"],
+    "affiliation": "Injustice League"
+  }
+]
