@@ -65,7 +65,7 @@ This app is built using the following technologies:
 
 ## 🐳 Containers
 
-Make to alias your desired containerization tool to `docker`
+Make sure to alias your desired containerization tool to `docker`
 
 The app is containerized, so feel free to build it using
 
