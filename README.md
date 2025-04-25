@@ -85,7 +85,7 @@ You can then access the app here: http://localhost
 
 ## 📚 Documentation
 
-- **API**: Retrieves information an a DC comics character based on name.
+- **API**: Retrieves information for a specific DC comics character based on name.
 - **UI**: Displays DC comics character info.
 
 Happy coding! 💻✨
