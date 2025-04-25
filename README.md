@@ -63,7 +63,23 @@ This app is built using the following technologies:
    ```
 4. The UI will be available at `http://localhost:4200`.
 
----
+## 🐳 Containers
+
+Make to alias your desired containerization tool to `docker`
+
+The app is containerized, so feel free to build it using
+
+```sh
+make
+```
+
+Run using
+
+```sh
+docker compose up
+```
+
+## And run it using
 
 ## 📚 Documentation
 
